@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741108610064",
+    "project_id": "oladisea-brew-crew",
+    "storage_bucket": "oladisea-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741108610064:android:d41371688c724696048695",
+        "android_client_info": {
+          "package_name": "com.oladisea.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741108610064-mo24n4ehmjla028qknj4n2u5f638h7em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoxpTX5KjHoqKR4bfqkr3d5u9X4jaFJJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741108610064-mo24n4ehmjla028qknj4n2u5f638h7em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
